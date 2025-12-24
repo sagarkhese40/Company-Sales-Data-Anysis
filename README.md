@@ -16,7 +16,7 @@ Identify pricing patterns and business trends
 
 Present insights through clear visualizations
 
-#🧹 Data Cleaning & Preparation
+##🧹 Data Cleaning & Preparation
 
 Removed duplicate and inconsistent records
 
@@ -30,7 +30,7 @@ Age Category (Young, Middle, Senior)
 
 Competitor Price Category (Competitor Expensive / Cheaper)
 
-#📈 Exploratory Data Analysis (EDA)
+##📈 Exploratory Data Analysis (EDA)
 
 Age-wise customer distribution
 
@@ -42,7 +42,7 @@ Gender-based analysis
 
 Bar charts and column charts were used for better clarity and easy interpretation.
 
-#📊 Dashboard & Visualizations
+##📊 Dashboard & Visualizations
 
 An interactive dashboard was created in Power BI that includes:
 
@@ -54,7 +54,7 @@ Filters by age group, gender, and price category
 
 The dashboard helps stakeholders quickly understand key insights.
 
-#🛠 Tools & Technologies
+##🛠 Tools & Technologies
 
 Python – Data cleaning and EDA
 
@@ -64,7 +64,7 @@ Power BI – Dashboard creation and DAX calculations
 
 SQL – Data querying (if applicable)
 
-#💡 Key Insights
+##💡 Key Insights
 
 Most customers belong to young and middle-age groups
 
@@ -74,7 +74,7 @@ Pricing strategy directly impacts customer behavior
 
 Clear segmentation improves business understanding
 
-# Challenges & Learnings
+## Challenges & Learnings
 
 Handling missing and inconsistent data
 
@@ -84,6 +84,6 @@ Applying logical thinking for categorization
 
 This project improved my data cleaning, analysis, and visualization skills.
 
-#Conclusion
+##Conclusion
 
 This project demonstrates an end-to-end data analysis workflow—from raw data to actionable insights. It highlights how data analysis can help businesses understand customers, optimize pricing, and make data-driven decisions.
