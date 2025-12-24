@@ -16,7 +16,7 @@ Identify pricing patterns and business trends
 
 Present insights through clear visualizations
 
- #🧹 Data Cleaning & Preparation
+#🧹 Data Cleaning & Preparation
 
 Removed duplicate and inconsistent records
 
@@ -42,7 +42,7 @@ Gender-based analysis
 
 Bar charts and column charts were used for better clarity and easy interpretation.
 
- # 📊 Dashboard & Visualizations
+# 📊 Dashboard & Visualizations
 
 An interactive dashboard was created in Power BI that includes:
 
