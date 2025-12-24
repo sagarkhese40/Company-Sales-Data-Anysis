@@ -44,6 +44,8 @@ Bar charts and column charts were used for better clarity and easy interpretatio
 
 ## 📊 Dashboard & Visualizations
 
+<img width="1285" height="716" alt="Screenshot 2025-12-25 011437" src="https://github.com/user-attachments/assets/1d68667a-41fd-4ff8-a4a5-43a999ee067b" />
+
 An interactive dashboard was created in Power BI that includes:
 
 KPI cards (Total Sales, Average Price, Customer Count)
